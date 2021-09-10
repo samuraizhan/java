@@ -1,0 +1,5 @@
+sun 太阳
+do  做
+make  做
+make 生产
+moon 月亮
